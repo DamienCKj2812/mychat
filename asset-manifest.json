@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mychat/static/css/main.9827fb05.css",
+    "main.js": "/mychat/static/js/main.50bd3f36.js",
+    "static/media/chatUI.png": "/mychat/static/media/chatUI.ae9064539d7bb70b33ec.png",
+    "static/media/at.png": "/mychat/static/media/at.3b9ab401e9b2741b6594.png",
+    "static/media/info.png": "/mychat/static/media/info.8d2c2e2cd81460bf9d5f.png",
+    "static/media/settings.png": "/mychat/static/media/settings.0e1d8aec7a8d7e02ae41.png",
+    "static/media/team.png": "/mychat/static/media/team.3e3affbd3814f56db722.png",
+    "static/media/emoji.png": "/mychat/static/media/emoji.4e4f4061b1cf557b6cb7.png",
+    "static/media/chat.png": "/mychat/static/media/chat.0234e733d159380ea4a8.png",
+    "static/media/send.png": "/mychat/static/media/send.122e2b60b87a3de79a3b.png",
+    "static/media/envelope.png": "/mychat/static/media/envelope.cb392634839fbe479f91.png",
+    "static/media/add-user.png": "/mychat/static/media/add-user.a5c6ae51810f726594ac.png",
+    "static/media/gps.png": "/mychat/static/media/gps.5eafc5745ccf5ade22c3.png",
+    "static/media/user.png": "/mychat/static/media/user.d47424d87411be97f736.png",
+    "static/media/invoice.png": "/mychat/static/media/invoice.8db39acbec9568aa2313.png",
+    "static/media/picture.png": "/mychat/static/media/picture.545693c3f89879618c60.png",
+    "static/media/phone-call.png": "/mychat/static/media/phone-call.d35848942c955a6232b3.png",
+    "static/media/file.png": "/mychat/static/media/file.d179bd381ec419477fb1.png",
+    "static/media/house-chimney.png": "/mychat/static/media/house-chimney.3ec27684932356d393cd.png",
+    "static/media/underline.png": "/mychat/static/media/underline.d38cc6da4a1847364d73.png",
+    "static/media/history.png": "/mychat/static/media/history.289fd111c6bbe3d9b912.png",
+    "static/media/seen.png": "/mychat/static/media/seen.a3c25c111771f1744beb.png",
+    "static/media/business.png": "/mychat/static/media/business.9a0ecac5bbc2f0e3eda7.png",
+    "index.html": "/mychat/index.html",
+    "main.9827fb05.css.map": "/mychat/static/css/main.9827fb05.css.map",
+    "main.50bd3f36.js.map": "/mychat/static/js/main.50bd3f36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9827fb05.css",
+    "static/js/main.50bd3f36.js"
+  ]
+}
